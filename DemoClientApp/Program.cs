@@ -8,6 +8,7 @@ namespace DemoClientApp
     class Program
     {
         //In this case we created web api and hosted on app service and configured authentication in portal itself.
+        //No configuration done in Web api project programatically.
         static string appId = "40195283-ee2e-4e29-99f4-a646b91c4359";
         static string secret = "cpP8Q~GIgnoUqPyZOEpNyt2RLe1tJorjQWRAFa3t";
         static string tenantId = "0c44cc27-a1cd-4b20-9c98-607c791fc563";
